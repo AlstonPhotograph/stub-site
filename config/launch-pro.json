@@ -1,0 +1,7 @@
+{
+  "schemaVersion": 1,
+  "campaignID": "launch-monthly-pro-v1",
+  "productID": "com.txturefty.stub.pro.monthly",
+  "benefitMonths": 1,
+  "enabled": false
+}
